@@ -680,25 +680,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\KristofHorvath\\.nuget\\packages\\": {},
+    "C:\\Users\\Kalpens\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KristofHorvath\\source\\repos\\ExamSol\\DAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Kalpens\\Source\\Repos\\ExamCleanSheet\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\KristofHorvath\\source\\repos\\ExamSol\\DAL\\DAL.csproj",
-      "packagesPath": "C:\\Users\\KristofHorvath\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KristofHorvath\\source\\repos\\ExamSol\\DAL\\obj\\",
+      "projectPath": "C:\\Users\\Kalpens\\Source\\Repos\\ExamCleanSheet\\DAL\\DAL.csproj",
+      "packagesPath": "C:\\Users\\Kalpens\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kalpens\\Source\\Repos\\ExamCleanSheet\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\KristofHorvath\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kalpens\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
@@ -712,8 +712,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\KristofHorvath\\source\\repos\\ExamSol\\BE\\BE.csproj": {
-              "projectPath": "C:\\Users\\KristofHorvath\\source\\repos\\ExamSol\\BE\\BE.csproj"
+            "C:\\Users\\Kalpens\\Source\\Repos\\ExamCleanSheet\\BE\\BE.csproj": {
+              "projectPath": "C:\\Users\\Kalpens\\Source\\Repos\\ExamCleanSheet\\BE\\BE.csproj"
             }
           }
         }

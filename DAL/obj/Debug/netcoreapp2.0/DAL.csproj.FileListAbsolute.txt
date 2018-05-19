@@ -10,3 +10,15 @@ c:\users\kristofhorvath\source\repos\ExamSol\DAL\obj\Debug\netcoreapp2.0\DAL.Ass
 c:\users\kristofhorvath\source\repos\ExamSol\DAL\obj\Debug\netcoreapp2.0\DAL.csproj.CopyComplete
 c:\users\kristofhorvath\source\repos\ExamSol\DAL\obj\Debug\netcoreapp2.0\DAL.dll
 c:\users\kristofhorvath\source\repos\ExamSol\DAL\obj\Debug\netcoreapp2.0\DAL.pdb
+C:\Users\Kalpens\source\repos\ExamCleanSheet\DAL\bin\Debug\netcoreapp2.0\DAL.deps.json
+C:\Users\Kalpens\source\repos\ExamCleanSheet\DAL\bin\Debug\netcoreapp2.0\DAL.dll
+C:\Users\Kalpens\source\repos\ExamCleanSheet\DAL\bin\Debug\netcoreapp2.0\DAL.pdb
+C:\Users\Kalpens\source\repos\ExamCleanSheet\DAL\bin\Debug\netcoreapp2.0\BE.dll
+C:\Users\Kalpens\source\repos\ExamCleanSheet\DAL\bin\Debug\netcoreapp2.0\BE.pdb
+C:\Users\Kalpens\source\repos\ExamCleanSheet\DAL\obj\Debug\netcoreapp2.0\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Kalpens\source\repos\ExamCleanSheet\DAL\obj\Debug\netcoreapp2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kalpens\source\repos\ExamCleanSheet\DAL\obj\Debug\netcoreapp2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Kalpens\source\repos\ExamCleanSheet\DAL\obj\Debug\netcoreapp2.0\DAL.AssemblyInfo.cs
+C:\Users\Kalpens\source\repos\ExamCleanSheet\DAL\obj\Debug\netcoreapp2.0\DAL.csproj.CopyComplete
+C:\Users\Kalpens\source\repos\ExamCleanSheet\DAL\obj\Debug\netcoreapp2.0\DAL.dll
+C:\Users\Kalpens\source\repos\ExamCleanSheet\DAL\obj\Debug\netcoreapp2.0\DAL.pdb

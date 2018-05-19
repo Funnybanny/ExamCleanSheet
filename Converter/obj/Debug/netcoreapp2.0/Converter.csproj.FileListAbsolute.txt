@@ -10,3 +10,15 @@ c:\users\kristofhorvath\source\repos\ExamSol\Converter\bin\Debug\netcoreapp2.0\B
 c:\users\kristofhorvath\source\repos\ExamSol\Converter\obj\Debug\netcoreapp2.0\Converter.csproj.CopyComplete
 c:\users\kristofhorvath\source\repos\ExamSol\Converter\obj\Debug\netcoreapp2.0\Converter.dll
 c:\users\kristofhorvath\source\repos\ExamSol\Converter\obj\Debug\netcoreapp2.0\Converter.pdb
+C:\Users\Kalpens\source\repos\ExamCleanSheet\Converter\bin\Debug\netcoreapp2.0\Converter.deps.json
+C:\Users\Kalpens\source\repos\ExamCleanSheet\Converter\bin\Debug\netcoreapp2.0\Converter.dll
+C:\Users\Kalpens\source\repos\ExamCleanSheet\Converter\bin\Debug\netcoreapp2.0\Converter.pdb
+C:\Users\Kalpens\source\repos\ExamCleanSheet\Converter\bin\Debug\netcoreapp2.0\BE.dll
+C:\Users\Kalpens\source\repos\ExamCleanSheet\Converter\bin\Debug\netcoreapp2.0\BE.pdb
+C:\Users\Kalpens\source\repos\ExamCleanSheet\Converter\obj\Debug\netcoreapp2.0\Converter.csprojResolveAssemblyReference.cache
+C:\Users\Kalpens\source\repos\ExamCleanSheet\Converter\obj\Debug\netcoreapp2.0\Converter.csproj.CoreCompileInputs.cache
+C:\Users\Kalpens\source\repos\ExamCleanSheet\Converter\obj\Debug\netcoreapp2.0\Converter.AssemblyInfoInputs.cache
+C:\Users\Kalpens\source\repos\ExamCleanSheet\Converter\obj\Debug\netcoreapp2.0\Converter.AssemblyInfo.cs
+C:\Users\Kalpens\source\repos\ExamCleanSheet\Converter\obj\Debug\netcoreapp2.0\Converter.csproj.CopyComplete
+C:\Users\Kalpens\source\repos\ExamCleanSheet\Converter\obj\Debug\netcoreapp2.0\Converter.dll
+C:\Users\Kalpens\source\repos\ExamCleanSheet\Converter\obj\Debug\netcoreapp2.0\Converter.pdb

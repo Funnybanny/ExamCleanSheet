@@ -8,9 +8,9 @@ services:
       - NUGET_PACKAGES=C:\.nuget\packages
       - NUGET_FALLBACK_PACKAGES=c:\.nuget\fallbackpackages;c:\.nuget\fallbackpackages2
     volumes:
-      - C:\Users\KristofHorvath\source\repos\ExamSol\CustomerAPI:C:\app
-      - C:\Users\KristofHorvath\onecoremsvsmon\15.0.27428.1:C:\remote_debugger:ro
-      - C:\Users\KristofHorvath\.nuget\packages\:c:\.nuget\packages:ro
+      - C:\Users\Kalpens\Source\Repos\ExamCleanSheet\CustomerAPI:C:\app
+      - C:\Users\Kalpens\onecoremsvsmon\15.0.27428.1:C:\remote_debugger:ro
+      - C:\Users\Kalpens\.nuget\packages\:c:\.nuget\packages:ro
       - C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\:c:\.nuget\fallbackpackages:ro
       - C:\Program Files\dotnet\sdk\NuGetFallbackFolder:c:\.nuget\fallbackpackages2:ro
     entrypoint: C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646
