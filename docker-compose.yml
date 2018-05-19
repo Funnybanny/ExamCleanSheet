@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  customerapi:
+    image: customerapi
+    ports: 
+     - "8004:80"
+    build:
+      context: .
+      dockerfile: CustomerAPI\Dockerfile

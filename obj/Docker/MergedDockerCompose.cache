@@ -1,0 +1,16 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  customerapi:
+    build:
+      context: C:\Users\KristofHorvath\source\repos\ExamSol
+      dockerfile: CustomerAPI\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: customerapi
+    ports:
+    - 8004:80/tcp
+    - 80/tcp
+version: '3.0'

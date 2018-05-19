@@ -1,0 +1,12 @@
+c:\users\kristofhorvath\source\repos\ExamSol\Converter\bin\Debug\netcoreapp2.0\BE.dll
+c:\users\kristofhorvath\source\repos\ExamSol\Converter\obj\Debug\netcoreapp2.0\Converter.csprojResolveAssemblyReference.cache
+c:\users\kristofhorvath\source\repos\ExamSol\Converter\obj\Debug\netcoreapp2.0\Converter.csproj.CoreCompileInputs.cache
+c:\users\kristofhorvath\source\repos\ExamSol\Converter\obj\Debug\netcoreapp2.0\Converter.AssemblyInfoInputs.cache
+c:\users\kristofhorvath\source\repos\ExamSol\Converter\obj\Debug\netcoreapp2.0\Converter.AssemblyInfo.cs
+c:\users\kristofhorvath\source\repos\ExamSol\Converter\bin\Debug\netcoreapp2.0\Converter.deps.json
+c:\users\kristofhorvath\source\repos\ExamSol\Converter\bin\Debug\netcoreapp2.0\Converter.dll
+c:\users\kristofhorvath\source\repos\ExamSol\Converter\bin\Debug\netcoreapp2.0\Converter.pdb
+c:\users\kristofhorvath\source\repos\ExamSol\Converter\bin\Debug\netcoreapp2.0\BE.pdb
+c:\users\kristofhorvath\source\repos\ExamSol\Converter\obj\Debug\netcoreapp2.0\Converter.csproj.CopyComplete
+c:\users\kristofhorvath\source\repos\ExamSol\Converter\obj\Debug\netcoreapp2.0\Converter.dll
+c:\users\kristofhorvath\source\repos\ExamSol\Converter\obj\Debug\netcoreapp2.0\Converter.pdb

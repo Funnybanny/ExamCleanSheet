@@ -1,0 +1,8 @@
+C:\Users\KristofHorvath\source\repos\ExamSol\BE\bin\Release\netcoreapp2.0\BE.deps.json
+C:\Users\KristofHorvath\source\repos\ExamSol\BE\bin\Release\netcoreapp2.0\BE.dll
+C:\Users\KristofHorvath\source\repos\ExamSol\BE\bin\Release\netcoreapp2.0\BE.pdb
+C:\Users\KristofHorvath\source\repos\ExamSol\BE\obj\Release\netcoreapp2.0\BE.csproj.CoreCompileInputs.cache
+C:\Users\KristofHorvath\source\repos\ExamSol\BE\obj\Release\netcoreapp2.0\BE.AssemblyInfoInputs.cache
+C:\Users\KristofHorvath\source\repos\ExamSol\BE\obj\Release\netcoreapp2.0\BE.AssemblyInfo.cs
+C:\Users\KristofHorvath\source\repos\ExamSol\BE\obj\Release\netcoreapp2.0\BE.dll
+C:\Users\KristofHorvath\source\repos\ExamSol\BE\obj\Release\netcoreapp2.0\BE.pdb

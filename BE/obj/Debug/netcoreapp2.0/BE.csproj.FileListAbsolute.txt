@@ -1,0 +1,9 @@
+c:\users\kristofhorvath\source\repos\ExamSol\BE\bin\Debug\netcoreapp2.0\BE.deps.json
+c:\users\kristofhorvath\source\repos\ExamSol\BE\bin\Debug\netcoreapp2.0\BE.dll
+c:\users\kristofhorvath\source\repos\ExamSol\BE\bin\Debug\netcoreapp2.0\BE.pdb
+c:\users\kristofhorvath\source\repos\ExamSol\BE\obj\Debug\netcoreapp2.0\BE.csproj.CoreCompileInputs.cache
+c:\users\kristofhorvath\source\repos\ExamSol\BE\obj\Debug\netcoreapp2.0\BE.AssemblyInfoInputs.cache
+c:\users\kristofhorvath\source\repos\ExamSol\BE\obj\Debug\netcoreapp2.0\BE.AssemblyInfo.cs
+c:\users\kristofhorvath\source\repos\ExamSol\BE\obj\Debug\netcoreapp2.0\BE.dll
+c:\users\kristofhorvath\source\repos\ExamSol\BE\obj\Debug\netcoreapp2.0\BE.pdb
+c:\users\kristofhorvath\source\repos\ExamSol\BE\obj\Debug\netcoreapp2.0\BE.csprojResolveAssemblyReference.cache
